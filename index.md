@@ -238,7 +238,7 @@
     </div>
     <ul id="pages">
                 <li><a href="/about.html">About</a></li> 
-                <li><a href="/brands.html">Brands</a></li>
+                <li><a href="/works.html">Works</a></li>
                 <li><a href="/contact.html">Contact</a></li>
                 <li><a href="/personal.html">Personal</a></li>            
     </ul>
