@@ -276,6 +276,17 @@
     <div class="content" style="display:none;">
     </div>
 </article>
+
+<article class="post photo  index">
+    <div class="content">
+        <img src="Andu2.jpg" alt="ANDI" onContextMenu="return false;"/>
+        <img src="Andu3.jpg" alt="Andy" onContextMenu="return false;"/>
+        <img src="Andu4.jpg" alt="Andei" onContextMenu="return false;"/>
+    </div>
+    <div class="content" style="display:none;">
+    </div>
+</article>
+
 <!-- post meta -->
 </main>
 <!-- footer -->
